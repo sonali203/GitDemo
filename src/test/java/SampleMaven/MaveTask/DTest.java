@@ -13,4 +13,9 @@ public class DTest {
 	{
 	System.out.println("Eight");	
 	}
+	@Test
+	public void TwentyFive()
+	{
+	System.out.println("Twentyfive");	
+	}
 }
